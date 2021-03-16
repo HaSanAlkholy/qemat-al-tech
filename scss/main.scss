@@ -257,7 +257,7 @@
         .price {
             justify-content: flex-start;
             .now {
-                font-size: 25px;
+                font-size: 18px;
                 font-weight: 700;
                 color: $color1;
             }
@@ -327,11 +327,6 @@
         padding-bottom: 0;
         .product-disc {
             padding: 0 10px;
-            .price {
-                .now {
-                    font-size: 18px;
-                }
-            }
         }
     }
 }
@@ -556,7 +551,7 @@ nav {
             }
 
             @media (max-width: 576px) {
-                max-width: 120px;
+                max-width: 125px;
             }
         }
 
@@ -811,7 +806,7 @@ nav {
                             margin-bottom: 30px;
                             border-bottom: 1px dotted #eceff1;
                             margin: 0;
-                            padding: 20px 0;
+                            padding: 10px 0;
                             text-transform: capitalize;
 
                             .fa-chevron-down {
@@ -1358,7 +1353,7 @@ header {
             padding: 10px 32px;
             border-radius: 50px;
             background-color: $color1;
-            font-size: 18px;
+            font-size: 16px;
             color: rgba(38, 50, 56, 255);
             display: inline-block;
             margin-top: 40px;
@@ -1855,7 +1850,7 @@ footer {
                 margin: 0;
                 margin-bottom: 25px;
                 text-transform: uppercase;
-                font-weight: 500;
+                font-weight: 700;
                 font-size: 16px;
                 color: $color2;
 

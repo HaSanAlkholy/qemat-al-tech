@@ -450,7 +450,7 @@ ul {
 }
 
 .product .product-disc .price .now {
-  font-size: 25px;
+  font-size: 18px;
   font-weight: 700;
   color: #ffc107;
 }
@@ -519,9 +519,6 @@ ul {
   }
   .product .product-disc {
     padding: 0 10px;
-  }
-  .product .product-disc .price .now {
-    font-size: 18px;
   }
 }
 
@@ -752,7 +749,7 @@ nav .nav-bottom .nav-logo img {
 
 @media (max-width: 576px) {
   nav .nav-bottom .nav-logo {
-    max-width: 120px;
+    max-width: 125px;
   }
 }
 
@@ -1017,7 +1014,7 @@ nav .nava .nava-content > ul .categories > .top-dropDown .in-menu > .top-dropDow
   margin-bottom: 30px;
   border-bottom: 1px dotted #eceff1;
   margin: 0;
-  padding: 20px 0;
+  padding: 10px 0;
   text-transform: capitalize;
 }
 
@@ -1549,7 +1546,7 @@ header .swiper-container .swiper-slide img {
   padding: 10px 32px;
   border-radius: 50px;
   background-color: #ffc107;
-  font-size: 18px;
+  font-size: 16px;
   color: #263238;
   display: inline-block;
   margin-top: 40px;
@@ -2041,7 +2038,7 @@ footer .footer-top .head h4 {
   margin: 0;
   margin-bottom: 25px;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 700;
   font-size: 16px;
   color: #263238;
 }
